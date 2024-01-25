@@ -83,7 +83,7 @@ function case2() {
 // ID: 1 | Modelo: Civic| Cor: Azul | Preço: R$40.000
 function case3() {
   let veiculosFiltrados = prompt(
-    "Digite a Marca do Veiculo que voce deseja filtrar"
+    "Digitee a Marca do Veiculo que voce deseja filtrar"
   );
 
   veiculos

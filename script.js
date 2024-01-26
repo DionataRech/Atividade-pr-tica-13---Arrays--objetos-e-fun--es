@@ -127,7 +127,6 @@ function case4() {
     );
     return;
   }
-  // let VeiculoCopiado ={...veiculos}
 }
 // 5 - Remover veículo
 
@@ -156,7 +155,6 @@ function case5() {
   }
   return;
 }
-
 // 6 - Sair do sistema
 function lacoDeRepeticao() {
   while (true) {
